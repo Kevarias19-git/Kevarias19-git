@@ -24,7 +24,7 @@ Estudiante de Ingeniería Industrial (PUCP) enfocado en análisis de datos. Trab
 | **Análisis de liquidaciones portuarias** | SQL · Python |     |
 | **Dashboard de ventas retail** | Python · SQL · Power BI |      |
 
-<!-- Detalle completo de cada proyecto en → **[data-analyst-portfolio](#)** -->
+Detalle completo de cada proyecto en [data-analyst-portfolio](https://github.com/Kevarias19-git/data-analyst-portfolio)
 
 <br>
 
