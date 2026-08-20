@@ -28,10 +28,6 @@ Estudiante de Ingeniería Industrial (PUCP) enfocado en análisis de datos. Trab
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kevarias19-git&show_icons=true&theme=default&hide_title=true&hide_border=true" width="420" alt="GitHub stats de Kevin Arias" />
-
-<br>
-
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/kevarias19/) · a20175498@pucp.edu.pe · kevarias19@outlook.es
 
 ---
