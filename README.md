@@ -1,12 +1,12 @@
 <h1 align="left">Kevin Arias</h1>
 
 <p align="left">
-Estudiante de Ingeniería Industrial (PUCP) enfocado en análisis de datos. Trabajo con Python, SQL y Power BI para limpiar, analizar y visualizar datos que respondan preguntas de negocio concretas.
+Industrial Engineering student (PUCP) focused on data analytics. Working with Python, SQL, and Power BI to clean, analyze, and visualize data that drives clear business insights.
 </p>
 
 <br>
 
-### Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -17,17 +17,15 @@ Estudiante de Ingeniería Industrial (PUCP) enfocado en análisis de datos. Trab
 
 <br>
 
-### Proyectos
+### Projects
 
-| Proyecto | Stack | Descripción |
+| Project | Stack | Description |
 |---|---|---|
-| **Análisis de liquidaciones portuarias** | SQL · Python |     |
-| **Dashboard de ventas retail** | Python · SQL · Power BI |      |
+| **...** | SQL · Python | ...    |
+| **...** | Python · SQL · Power BI | ...    |
 
-Detalle completo de cada proyecto en [data-analyst-portfolio](https://github.com/Kevarias19-git/data-analyst-portfolio)
+Full project details available at [data-analyst-portfolio](https://github.com/Kevarias19-git/data-analyst-portfolio)
 
 <br>
 
-**Contacto:** [LinkedIn](https://www.linkedin.com/in/kevarias19/) · a20175498@pucp.edu.pe · kevarias19@outlook.es
-
----
+**Contact:** [LinkedIn](https://www.linkedin.com/in/kevarias19/) · a20175498@pucp.edu.pe · kevarias19@outlook.es
