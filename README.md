@@ -28,9 +28,9 @@ Industrial Engineering student at PUCP with a professional background in public 
 
 | Project | Stack | Description |
 |---|:---:|---|
-| [**Public Procurement Analysis - Peru (2023-2025)**](https://github.com/Kevarias19-git/data-analyst-portfolio/tree/main/Public%20Procurement%20Analysis%20-%20Peru%20(2023-2025)) | SQLite - Python - Power BI | 6.9M procurement records (OCDS): relational model, data quality audit, 13 SQL views and a 5-page Power BI report with a star schema and 30+ DAX measures |
+| [**Public Procurement Analysis - Peru (2023-2025)**](https://github.com/Kevarias19-git/data-analyst-portfolio/tree/main/Public%20Procurement%20Analysis%20-%20Peru%20(2023-2025)) | SQLite · Python · Power BI | 6.9M procurement records (OCDS): relational model, data quality audit, 13 SQL views and a 5-page Power BI report with a star schema and 30+ DAX measures |
 | [**Peru Regional Export Trends (2005-2022)**](https://github.com/Kevarias19-git/data-analyst-portfolio/tree/main/Peru%20Regional%20Export%20Trends%20(2005-2022)) | R | Cleaning and EDA of 18 years of monthly exports for 25 regions (BCRP), PCA and clustering of regional profiles, and a classifier that predicts year-over-year growth (AUC ~0.83) |
-| [**ICIJ Offshore Leaks Database**](https://github.com/Kevarias19-git/data-analyst-portfolio/tree/main/ICIJ%20Offshore%20Leaks%20-%20SQL%20Server) | SQL Server - T-SQL | Pipeline from raw CSV files to a typed relational model and a graph model (`NODE`/`EDGE`) over ~2.0M nodes and 3.3M relationships, to analyze how offshore structures connect |
+| [**ICIJ Offshore Leaks Database**](https://github.com/Kevarias19-git/data-analyst-portfolio/tree/main/ICIJ%20Offshore%20Leaks%20-%20SQL%20Server) | SQL Server · T-SQL | Pipeline from raw CSV files to a typed relational model and a graph model (`NODE`/`EDGE`) over ~2.0M nodes and 3.3M relationships, to analyze how offshore structures connect |
 
 Full project details available at [data-analyst-portfolio](https://github.com/Kevarias19-git/data-analyst-portfolio)
 
