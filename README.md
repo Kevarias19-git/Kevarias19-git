@@ -38,7 +38,7 @@ Full project details available at [data-analyst-portfolio](https://github.com/Ke
 
 - [Google Data Analysis with Python](https://www.coursera.org/account/accomplishments/specialization/MAM7P6F6GO56) (2026)
 - [Microsoft Power BI Data Analyst Professional Certificate](https://coursera.org/share/a27d231213dd55c0bb8c5457f90d26e0) (2026)
-- [AWS Knowledge Badge: Data Analytics]() (2026)
+- [AWS Knowledge Badge: Data Analytics](https://www.credly.com/badges/0381e51e-dbb4-48f0-9063-4cbaea149f8a/public_url) (2026)
   
 <br>
 
